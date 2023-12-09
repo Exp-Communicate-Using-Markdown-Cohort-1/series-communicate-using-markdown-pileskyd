@@ -9,6 +9,22 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+
+```bash
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+```javascript
+async function main() {
+    await init()
+    console.log("Runing")
+    runServe(4000)
+}
+```
+
+
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
